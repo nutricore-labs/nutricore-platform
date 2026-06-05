@@ -39,6 +39,7 @@ Service implementation repositories can be added as service boundaries become st
 
 | Document | Purpose |
 |---|---|
+| [Documentation Index](docs/index.md) | Central navigation page for NutriCore technical documentation |
 | [Roadmap](docs/roadmap.md) | Product and engineering milestones |
 | [Architecture Overview](docs/architecture/overview.md) | High-level platform architecture |
 | [Service Map](docs/architecture/service-map.md) | Planned services, responsibilities, data ownership, and communication patterns |
